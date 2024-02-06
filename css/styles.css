@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f0f0f0;
+}
+
+button {
+    border-radius: 5px;
+    background: #ffff70;
+    font-weight: bold;
+}
